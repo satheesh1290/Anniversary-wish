@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Anniversary-wish/static/css/main.ebe4b946.css",
-    "main.js": "/Anniversary-wish/static/js/main.dd9129f1.js",
+    "main.css": "/Anniversary-wish/static/css/main.ac106013.css",
+    "main.js": "/Anniversary-wish/static/js/main.9589527d.js",
     "static/media/img2.JPG": "/Anniversary-wish/static/media/img2.aa31ab520371ac704cdd.JPG",
     "static/media/img3.JPG": "/Anniversary-wish/static/media/img3.e641461b794cca09db68.JPG",
     "static/media/img4.jpg": "/Anniversary-wish/static/media/img4.61c0a06ea810cc184d2e.jpg",
@@ -9,11 +9,11 @@
     "static/media/Love.jpg": "/Anniversary-wish/static/media/Love.1d3a59cb4741023ab8b0.jpg",
     "static/media/img1.jpg": "/Anniversary-wish/static/media/img1.d7c9c9d1429b65256f3f.jpg",
     "index.html": "/Anniversary-wish/index.html",
-    "main.ebe4b946.css.map": "/Anniversary-wish/static/css/main.ebe4b946.css.map",
-    "main.dd9129f1.js.map": "/Anniversary-wish/static/js/main.dd9129f1.js.map"
+    "main.ac106013.css.map": "/Anniversary-wish/static/css/main.ac106013.css.map",
+    "main.9589527d.js.map": "/Anniversary-wish/static/js/main.9589527d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebe4b946.css",
-    "static/js/main.dd9129f1.js"
+    "static/css/main.ac106013.css",
+    "static/js/main.9589527d.js"
   ]
 }
