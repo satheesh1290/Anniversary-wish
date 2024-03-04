@@ -19,7 +19,7 @@ const Interval = () => {
 
   return (
     <div className="container">
-      <div className="heartbeat">
+      <div>
         <img
           className="image rotate-scale-up"
           src={imgs.find((img, i) => i === seconds)}

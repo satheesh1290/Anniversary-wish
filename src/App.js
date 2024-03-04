@@ -4,7 +4,7 @@ import Interval from "./components/interval/Interval";
 function App() {
   return (
     <div className="responsive-container">
-      <div className="App">
+      <div className="App heartbeat">
         <div>
           <h1 className="h1text">
             💕 உங்கள் 💕 💕 இருவருக்கும் <br />
