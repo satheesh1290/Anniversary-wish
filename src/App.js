@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Interval from "./components/interval/Interval";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="responsive-container">
+      <div className="App">
+        <div>
+          <h1 className="h1text">
+            💕 உங்கள் 💕 💕 இருவருக்கும் <br />
+            💕 இனிய திருமணநாள் வாழ்த்துக்கள் 💕
+          </h1>
+        </div>
+        <div>
+          <Interval />
+        </div>
+      </div>
     </div>
   );
 }
