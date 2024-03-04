@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Anniversay-wish/static/css/main.3b443fb0.css",
+    "main.js": "/Anniversay-wish/static/js/main.d553b0b3.js",
+    "static/media/img2.JPG": "/Anniversay-wish/static/media/img2.aa31ab520371ac704cdd.JPG",
+    "static/media/img3.JPG": "/Anniversay-wish/static/media/img3.e641461b794cca09db68.JPG",
+    "static/media/img4.jpg": "/Anniversay-wish/static/media/img4.61c0a06ea810cc184d2e.jpg",
+    "static/media/img5.jpg": "/Anniversay-wish/static/media/img5.cef86eb0984b3a90afc4.jpg",
+    "static/media/Love.jpg": "/Anniversay-wish/static/media/Love.1d3a59cb4741023ab8b0.jpg",
+    "static/media/img1.jpg": "/Anniversay-wish/static/media/img1.d7c9c9d1429b65256f3f.jpg",
+    "index.html": "/Anniversay-wish/index.html",
+    "main.3b443fb0.css.map": "/Anniversay-wish/static/css/main.3b443fb0.css.map",
+    "main.d553b0b3.js.map": "/Anniversay-wish/static/js/main.d553b0b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b443fb0.css",
+    "static/js/main.d553b0b3.js"
+  ]
+}
