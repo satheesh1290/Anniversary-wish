@@ -1,7 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import imgs from "../image";
-
 import "./interval.css";
 
 const Interval = () => {

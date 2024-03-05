@@ -5,8 +5,6 @@
 }
 body {
   background: var(--color-bg);
-  background-image: url("./assets/Love.jpg");
-  background-position: center;
 }
 
 .App {
@@ -17,7 +15,8 @@ body {
   flex-direction: column;
   background-image: url("./assets/Love.jpg");
   background-position: center;
-  background-size: 780px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 @keyframes heartbeat {

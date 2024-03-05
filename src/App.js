@@ -1,6 +1,8 @@
 import "./App.css";
 import Interval from "./components/interval/Interval";
 
+import song from "./assets/kalyana_malai4.mp3";
+
 function App() {
   return (
     <div className="responsive-container">
@@ -15,6 +17,7 @@ function App() {
           <Interval />
         </div>
       </div>
+      <audio src={song} autoPlay></audio>
     </div>
   );
 }
